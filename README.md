@@ -34,3 +34,7 @@ npm run build
 1. Clone repository:
 ```bash
 git clone <repository-url>
+npm install
+npm install vue-router@next
+npm install bootstrap
+npm install axios
