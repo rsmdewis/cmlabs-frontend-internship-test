@@ -33,8 +33,7 @@ npm run build
 
 1. Clone repository:
 ```bash
-git clone <repository-url>
-npm install
+git clone https://github.com/rsmdewis/cmlabs-frontend-internship-test.git
 npm install vue-router@next
 npm install bootstrap
 npm install axios
